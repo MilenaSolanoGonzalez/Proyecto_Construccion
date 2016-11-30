@@ -1,0 +1,58 @@
+*{
+  font-family: arial;
+}
+.site-center{
+  margin-top: 60px;
+}
+
+.video-inicial{
+  max-width: 1100px;
+  width: 95%;
+  margin-left:25px;
+}
+.site-header{
+  background-color: #60222B;
+}
+.button{
+  color: white;
+  background-color: #8d4a53;
+  border-style: hidden;
+}
+#tono{
+color: #8d4a53;
+font-size: 18px;
+}
+#espacio{
+  margin-left: 180px;
+}
+@media (max-width: 1200px){
+	#espacio{
+		margin-left: 0px;
+	}
+}
+.margen{
+  margin-left: 180px;
+}
+#centrar{
+  text-align: center;
+}
+#vineta{
+  list-style:none;
+}
+
+
+#map {
+  height: 40%;
+  max-width: 900px;
+  height: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.#labeltexto{
+  width: 60px;
+  height: 30px;
+}
+
+#text{
+  text-align: center;
+}
